@@ -8,3 +8,13 @@ C:\Users\USUARIO\source\repos\OpenWeatherAPI\Domain\obj\Debug\netstandard2.0\Dom
 C:\Users\USUARIO\source\repos\OpenWeatherAPI\Domain\obj\Debug\netstandard2.0\Domain.csproj.CoreCompileInputs.cache
 C:\Users\USUARIO\source\repos\OpenWeatherAPI\Domain\obj\Debug\netstandard2.0\Domain.dll
 C:\Users\USUARIO\source\repos\OpenWeatherAPI\Domain\obj\Debug\netstandard2.0\Domain.pdb
+C:\Users\LENOVO\source\repos\OpenWeatherAPI\Domain\bin\Debug\netstandard2.0\Domain.deps.json
+C:\Users\LENOVO\Source\Repos\OpenWeatherAPI\Domain\bin\Debug\netstandard2.0\Domain.dll
+C:\Users\LENOVO\Source\Repos\OpenWeatherAPI\Domain\bin\Debug\netstandard2.0\Domain.pdb
+C:\Users\LENOVO\Source\Repos\OpenWeatherAPI\Domain\obj\Debug\netstandard2.0\Domain.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Source\Repos\OpenWeatherAPI\Domain\obj\Debug\netstandard2.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Source\Repos\OpenWeatherAPI\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Source\Repos\OpenWeatherAPI\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
+C:\Users\LENOVO\Source\Repos\OpenWeatherAPI\Domain\obj\Debug\netstandard2.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Source\Repos\OpenWeatherAPI\Domain\obj\Debug\netstandard2.0\Domain.dll
+C:\Users\LENOVO\Source\Repos\OpenWeatherAPI\Domain\obj\Debug\netstandard2.0\Domain.pdb

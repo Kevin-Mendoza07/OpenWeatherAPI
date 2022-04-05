@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    },
+    "dcf0cecc-9850-486e-8fda-894a787285c1": {
+      "ProjectGuid": "dcf0cecc-9850-486e-8fda-894a787285c1",
+      "DisplayName": "Domain",
+      "ColorIndex": 0
+    },
+    "6717f8d8-db9b-42e1-bc37-eb8879b96d24": {
+      "ProjectGuid": "6717f8d8-db9b-42e1-bc37-eb8879b96d24",
+      "DisplayName": "Infraestructure",
+      "ColorIndex": 1
+    },
+    "d6c22d55-2047-4044-9a4a-8fe669eae4cf": {
+      "ProjectGuid": "d6c22d55-2047-4044-9a4a-8fe669eae4cf",
+      "DisplayName": "AppCore",
+      "ColorIndex": 2
+    },
+    "773afab5-8834-4cc1-880f-d4a3b8e169a2": {
+      "ProjectGuid": "773afab5-8834-4cc1-880f-d4a3b8e169a2",
+      "DisplayName": "OpenWeatherAPI",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

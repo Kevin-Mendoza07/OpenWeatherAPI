@@ -10,12 +10,13 @@ namespace Infraestructure.Repository
     {
         private Root rootinfo;
         private const string APIKey = "54a2d385952f88418fef91a13d5ac22d";
+        private const string units = "metric";
 
         public Root GetWeather(string city)
         {
             using (WebClient webClient = new WebClient())
             {
-                string url = string.Format("https://api.openweathermap.org/data/2.5/weather?q={0}&appid={1}", city, APIKey);
+                string url = string.Format("https://api.openweathermap.org/data/2.5/weather?q={0}&appid={1}&units={2}", city, APIKey,units);
                 var json = webClient.DownloadString(url);
 
                 rootinfo = JsonConvert.DeserializeObject<Root>(json);
@@ -34,7 +35,7 @@ namespace Infraestructure.Repository
         public DateTime ConvertDateTime(long seconds)
         {
             DateTime day = new DateTime(1970, 1, 1, 0, 0, 0, DateTimeKind.Utc).ToLocalTime();
-            day = day.AddMilliseconds(seconds);
+            day = day.AddSeconds(seconds).ToLocalTime();
             return day;
         }
     }

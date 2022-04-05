@@ -11,5 +11,7 @@ namespace Domain.Entities.ClimateInfo
         public double temp_max { get; set; }
         public double pressure { get; set; }
         public double humidity { get; set; }
+        public double feels_like { get; set; }
+
     }
 }

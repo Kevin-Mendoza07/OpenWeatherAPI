@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USUARIO\\source\\repos\\OpenWeatherAPI\\Infraestructure\\Infraestructure.csproj": {}
+    "C:\\Users\\LENOVO\\source\\repos\\OpenWeatherAPI\\Infraestructure\\Infraestructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USUARIO\\source\\repos\\OpenWeatherAPI\\Domain\\Domain.csproj": {
+    "C:\\Users\\LENOVO\\source\\repos\\OpenWeatherAPI\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USUARIO\\source\\repos\\OpenWeatherAPI\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\LENOVO\\source\\repos\\OpenWeatherAPI\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\USUARIO\\source\\repos\\OpenWeatherAPI\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USUARIO\\source\\repos\\OpenWeatherAPI\\Domain\\obj\\",
+        "projectPath": "C:\\Users\\LENOVO\\source\\repos\\OpenWeatherAPI\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LENOVO\\source\\repos\\OpenWeatherAPI\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -61,21 +61,21 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\USUARIO\\source\\repos\\OpenWeatherAPI\\Infraestructure\\Infraestructure.csproj": {
+    "C:\\Users\\LENOVO\\source\\repos\\OpenWeatherAPI\\Infraestructure\\Infraestructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USUARIO\\source\\repos\\OpenWeatherAPI\\Infraestructure\\Infraestructure.csproj",
+        "projectUniqueName": "C:\\Users\\LENOVO\\source\\repos\\OpenWeatherAPI\\Infraestructure\\Infraestructure.csproj",
         "projectName": "Infraestructure",
-        "projectPath": "C:\\Users\\USUARIO\\source\\repos\\OpenWeatherAPI\\Infraestructure\\Infraestructure.csproj",
-        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USUARIO\\source\\repos\\OpenWeatherAPI\\Infraestructure\\obj\\",
+        "projectPath": "C:\\Users\\LENOVO\\source\\repos\\OpenWeatherAPI\\Infraestructure\\Infraestructure.csproj",
+        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LENOVO\\source\\repos\\OpenWeatherAPI\\Infraestructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -89,8 +89,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\USUARIO\\source\\repos\\OpenWeatherAPI\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\USUARIO\\source\\repos\\OpenWeatherAPI\\Domain\\Domain.csproj"
+              "C:\\Users\\LENOVO\\source\\repos\\OpenWeatherAPI\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\LENOVO\\source\\repos\\OpenWeatherAPI\\Domain\\Domain.csproj"
               }
             }
           }
@@ -126,7 +126,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

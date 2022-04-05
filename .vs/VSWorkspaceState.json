@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Domain",
+    "\\Domain\\Entities",
+    "\\Domain\\Entities\\ClimateInfo"
+  ],
+  "SelectedNode": "\\OpenWeatherAPI.sln",
+  "PreviewInSolutionExplorer": false
+}

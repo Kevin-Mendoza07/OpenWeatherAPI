@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "4W+Wzzyfq4Fq00e9b7X9vczan+OxSJckiPAait9qusB1Lvl4rSim7CeRlSTGOegCmw3IvbhVB/Zq2tNvberaCw==",
+  "dgSpecHash": "CUpRipG36kyze57Hoiv6wW5UMNy9IOR3BC14KfDbEn4wsBCFVwqnVDYkUbGQdG7d8G0diOLDgJPxVV9s2kgwpw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USUARIO\\source\\repos\\OpenWeatherAPI\\Infraestructure\\Infraestructure.csproj",
+  "projectFilePath": "C:\\Users\\LENOVO\\source\\repos\\OpenWeatherAPI\\Infraestructure\\Infraestructure.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\USUARIO\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\USUARIO\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
-    "C:\\Users\\USUARIO\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],
   "logs": []
 }
